@@ -3,8 +3,8 @@ name: Deploy Production Theme Action
 on:
   push:
     branches:
-      - master
-      
+      -master
+
 jobs:
   deploy:
     name: Deploy Production Theme
